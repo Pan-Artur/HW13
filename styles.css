@@ -1,0 +1,11 @@
+.bg-box {
+    background-image: url(./img/pole-zelen-trava-dom-derevya.jpg), url(./img/green-png-44873.png), url(./img/lamp-png-34914.png), url(./img/masha_hedgedog.png), url(./img/shipping-icon-339.png);
+    background-color: darkgreen;
+    width: 100%;
+    height: 700px;
+    background-repeat: no-repeat, repeat-x, repeat-x, repeat-y, repeat-y;
+    background-position: center, bottom, top, top left, top right;
+    background-size: auto, 300px, 54px, 50px, 50px;
+}
+
+
